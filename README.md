@@ -1,6 +1,6 @@
 # myfirstapp
 
-> A Vue.js project
+> A Vue.js project, basic appliaciton implements vue-Router
 
 ## Build Setup
 
