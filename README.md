@@ -2,8 +2,14 @@
 
 > A Vue.js project, basic appliaciton implements vue-Router
 
+Main page with a menu with 3 options
 ![Screenshot](src/assets/screenshots/principal.png)
-![Optional Text](src/assets/screenshots/principal.png)
+
+Test Option
+![Screenshot](src/assets/screenshots/test.png)
+
+Users Option
+![Screenshot](src/assets/screenshots/users.png)
 
 ## Build Setup
 
