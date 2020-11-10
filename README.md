@@ -2,7 +2,8 @@
 
 > A Vue.js project, basic appliaciton implements vue-Router
 
-![Screenshot](src\assets\screenshots\principal.png)
+![Screenshot](src/assets/screenshots/principal.png)
+![Optional Text](src/assets/screenshots/principal.png)
 
 ## Build Setup
 
